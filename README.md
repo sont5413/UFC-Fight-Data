@@ -1,4 +1,4 @@
-## Predicting winner of UFC fight
+## Predicting the Winner of a UFC Fight
 I built 3 models to predict the winner of a UFC fight based on age, height, and so on of the "red" fighter and the "blue fighter.
 * Random Forest 
 * Linear Regression
