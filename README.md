@@ -1,5 +1,5 @@
 ## Predicting Winners of UFC Fights
-I built 2 classification models to predict the winner of a UFC fight based on age, height, and so on of the "red" fighter and the "blue fighter.
+I built two classification models to predict the winner of a UFC fight based on age, height, and so on of the "red" fighter and the "blue fighter.
 * Random Forest 
 * Gradient Boosting
 
